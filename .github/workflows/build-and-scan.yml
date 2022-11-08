@@ -38,6 +38,7 @@ jobs:
         with:
           #languages: java
           config-file: ./.github/codeql/codeql-config.yml
+          debug: true
 
       - name: Autobuild
         uses: github/codeql-action/autobuild@v2
