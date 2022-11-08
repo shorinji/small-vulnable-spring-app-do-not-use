@@ -1,2 +1,5 @@
+#packs:
+#- codeql/java-queries
+
 queries:
   - uses: security-and-quality
