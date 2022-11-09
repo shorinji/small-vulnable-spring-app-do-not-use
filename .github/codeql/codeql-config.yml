@@ -3,4 +3,4 @@
 
 queries:
   - uses: security-and-quality
-  - uses: ./.github/fredriks.ql
+  - uses: ./.github/codeql/fredriks/fredriks.ql
